@@ -1,0 +1,10 @@
+body{
+background-color: rgb(23, 226, 16);
+    color:rgb(0,0,0)
+}
+.cabeçalho{
+    background-color: rgb(240, 224, 11);
+    color:rgb(61, 41, 61);
+    display: flex;
+    justify-content: space-around;
+}
